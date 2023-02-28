@@ -16,6 +16,11 @@ button {
   background-color: inherit;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .bold {
   font-weight: bold;
 }
@@ -228,7 +233,7 @@ h3 {
   }
 }
 .section__box {
-  padding: 20px 40px;
+  padding: 10px 60px;
   background-color: #fff;
   box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.15);
 }
